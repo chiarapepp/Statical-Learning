@@ -2,13 +2,8 @@
 This repository contains various assignments and projects completed during the Statistical Learning course at the University of Florence. The projects cover different topics, including Monte Carlo simulations, kernel regression, statistical analysis using machine learning models, and clustering techniques.
 
 ### Assignements 
-1 Monte Carlo Simulation for Poker Hands Probabilities : 
-In this project, Monte Carlo simulations were used to estimate the probabilities of different poker hands:
-
-Double Pair
-Tris (Three of a Kind)
-Full House
-Four of a Kind
+1. Monte Carlo Simulation for Poker Hands Probabilities : 
+In this project, Monte Carlo simulations were used to estimate the probabilities of different poker hands.
 
 2. Kernel Regression on Synthetic and Real Data :
 This project focuses on estimating a regression function using the Nadaraya-Watson kernel regression estimator on both synthetic and real data. The goal was to model the functional relationship between variables and estimate the regression function.
