@@ -9,7 +9,7 @@ In this project, Monte Carlo simulations were used to estimate the probabilities
 This project focuses on estimating a regression function using the Nadaraya-Watson kernel regression estimator on both synthetic and real data. The goal was to model the functional relationship between variables and estimate the regression function.
 
 3. Contest : 
-In this contest, CART, Random Forest, and BART models were applied to analyze key variables in League of Legends.
+CART, Random Forest, and BART models were applied to analyze key variables in League of Legends.
 
 ### Final Exam: DBSCAN Analysis
 This final exam project involves an in-depth analysis of DBSCAN (Density-Based Spatial Clustering of Applications with Noise), applied to both real and simulated datasets. The analysis includes a detailed description of the algorithm and its performance on various data types.
