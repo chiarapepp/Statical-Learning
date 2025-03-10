@@ -14,6 +14,3 @@ In this contest, we applied CART, Random Forest, and BART models to analyze key 
 ### Final Exam: DBSCAN Analysis
 This final exam project involves an in-depth analysis of DBSCAN (Density-Based Spatial Clustering of Applications with Noise), applied to both real and simulated datasets. The analysis includes a detailed description of the algorithm and its performance on various data types.
 
-Folders:
-Presentations: Contains slides and presentations for each assignment.
-Final Exam: Contains the code and analysis related to the DBSCAN final exam project.
